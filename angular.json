@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sofka"
+    }
+  },
+  "defaultProject": "sofka",
+  "cli": {
+    "analytics": "67a78fc0-e6f0-46f0-859b-6cfec081d55d"
+  }
 }
